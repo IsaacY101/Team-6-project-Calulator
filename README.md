@@ -1,1 +1,1 @@
-Team 6 Gruop project Calculator
+Team 6 Group project Calculator
